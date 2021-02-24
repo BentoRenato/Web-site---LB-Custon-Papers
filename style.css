@@ -310,5 +310,9 @@ footer {
     .seta {
         width: 18px;
     }
+    
+     .container2 h1 {
+        font-size: 25px;
+    }
 
 }
